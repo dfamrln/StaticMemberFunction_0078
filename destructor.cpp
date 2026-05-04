@@ -18,3 +18,7 @@ angka::angka(int i) { // Constructor
     arr = new int[i];
     isiData();
 }
+
+angka::~angka() { // Destructor
+
+}
