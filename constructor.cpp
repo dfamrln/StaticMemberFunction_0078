@@ -6,3 +6,4 @@ public:
     mahasiswa();
 };
 
+mahasiswa::mahasiswa(){
