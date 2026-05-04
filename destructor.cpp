@@ -41,3 +41,7 @@ void angka::isiData() {
     }
     cout << endl;
 }
+
+int main() {
+    
+}
